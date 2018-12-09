@@ -1,5 +1,7 @@
 # ITBlog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KhanhTiet1997/IT-blog.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
 ## Development server
